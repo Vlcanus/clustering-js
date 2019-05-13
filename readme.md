@@ -7,4 +7,4 @@ node.js implementation of various clustering algorithms
 - K-Nearest Neighbours
 
 ### datasets
-- [MovieList](http://mlg.ucd.ie/aggregation/index.html)
+- [Congressional Voting Records Data Set](https://archive.ics.uci.edu/ml/datasets/congressional+voting+records)
